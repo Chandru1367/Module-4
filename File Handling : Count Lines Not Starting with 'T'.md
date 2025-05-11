@@ -5,11 +5,11 @@ To write a Python program that counts the number of words in text file..
 
 ## 🧠 Algorithm
 
-1.Define a function to create a file and write given content to it.
-2.Define another function to read the file, split its content into words, and count them.
-3.Define a third function to read and return the entire content of the file.
-4.Each function opens the file using a with statement to ensure proper handling.
-5.Return results as needed (word count or file content).
+1. Define a function to create a file and write given content to it.
+2. Define another function to read the file, split its content into words, and count them.
+3. Define a third function to read and return the entire content of the file.
+4. Each function opens the file using a with statement to ensure proper handling.
+5. Return results as needed (word count or file content).
 
 ## 🧾 Program
 ```
