@@ -2,7 +2,7 @@
 
 ## 🎯 Aim
 To write a Python program to get the maximum and minimum value of dictionary.
-
+rdt
 ## 🧠 Algorithm
 1. Define one dictionary `dict1`  with some key-value pairs.
 2. Define a function min and max for the given value
